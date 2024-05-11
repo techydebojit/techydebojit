@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **AWS Cloud, DevOps Tools, AWS Architecture**
 
-- 📫 How to reach me **debojitsadhukhan1994@gmail.com**
+- 📫 How to reach me **techydebojit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
