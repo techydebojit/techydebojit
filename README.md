@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Application Deployment Using CICD pipeline**
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m now **Terraform** Certified.
 
 - 💬 Ask me about **AWS Cloud, DevOps Tools, AWS Architecture**
 
